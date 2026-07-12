@@ -41,12 +41,6 @@ The **Sales Dashboard** is an interactive Microsoft Excel project designed to an
 * Data Visualization
 * Business Reporting
 
-## Dashboard Preview
-
-> Replace the image below with your dashboard screenshot.
-
-![Sales Dashboard](dashboard.png)
-
 ## Files Included
 
 | File                   | Description                                                                                              |
