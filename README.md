@@ -4,6 +4,10 @@
 
 The **Sales Dashboard** is an interactive Microsoft Excel project designed to analyze sales performance and provide actionable business insights. It leverages Pivot Tables, Pivot Charts, Slicers, and KPI cards to transform raw sales data into an easy-to-understand dashboard for decision-making.
 
+## Dashboard Preview
+
+![Sales Dashboard](dashboard.png)
+
 ## Objectives
 
 * Analyze overall sales performance.
